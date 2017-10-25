@@ -1,2 +1,1 @@
-service_name: travis-ci
-repo_token: PUUCil8VWmiissgcq97h3S7Lt07a3mH8f
+//the token is placed in the travis parameters to mask it from the public repo GitHub
